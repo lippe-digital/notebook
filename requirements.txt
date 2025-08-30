@@ -16,7 +16,7 @@ langchain-community==0.3.7
 langchain-openai==0.2.7
 langchain-anthropic==0.3.6
 langchain-ollama==0.2.0
-langchain-google-genai==2.1.10  # CHANGED: from 2.2.3 to 2.1.10
+langchain-google-genai==2.1.10
 langchain-groq==0.2.1
 langchain-mistralai==0.2.4
 langchain-deepseek==0.1.3
