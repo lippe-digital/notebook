@@ -3,7 +3,7 @@ fastapi==0.115.6
 uvicorn==0.34.0
 pydantic==2.10.5
 pydantic-core==2.27.2
-loguru==0.7.2
+loguru>=0.7.3
 langchain==0.3.7
 langgraph>=0.3.29
 humanize==4.12.0
