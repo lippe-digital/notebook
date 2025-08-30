@@ -14,3 +14,5 @@ streamlit>=1.32.0
 humanize>=4.0.0
 loguru>=0.7.0
 nest-asyncio>=1.5.0
+surrealdb>=1.0.0
+esperanto>=1.0.0
